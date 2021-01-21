@@ -1,4 +1,8 @@
-# Quick branch checker for frontend
+# Poor man's DIY pipeline for frontend
+
+When you have no CI/CD pipeline configured but you want to run checks on a branch.
+
+Just don't ask why...
 
 ## What does it do
 
